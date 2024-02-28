@@ -1,0 +1,6 @@
+This app shows CPLC of eSE on screen.
+
+This app does not store or share any user data or device information.  This app does not connect any contact or contactless network, like WIFI, BLE, or Cellular Network. 
+
+Need below Permission,
+android.permission.NFC
